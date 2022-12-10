@@ -20,7 +20,7 @@ $ npm install -g @su/cli
 $ mynewcli COMMAND
 running command...
 $ mynewcli (--version)
-@su/cli/0.0.0 darwin-arm64 node-v16.18.1
+@su/cli/0.0.1 darwin-arm64 node-v16.18.1
 $ mynewcli --help [COMMAND]
 USAGE
   $ mynewcli COMMAND
@@ -64,7 +64,7 @@ EXAMPLES
   hello friend from oclif! (./src/commands/hello/index.ts)
 ```
 
-_See code: [dist/commands/hello/index.ts](https://github.com/Desktop/mynewcli/blob/v0.0.0/dist/commands/hello/index.ts)_
+_See code: [dist/commands/hello/index.ts](https://github.com/suImagine/su-cli/blob/v0.0.1/dist/commands/hello/index.ts)_
 
 ## `mynewcli hello world`
 

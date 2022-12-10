@@ -6,10 +6,10 @@
   "bin": {
     "mynewcli": "./bin/run"
   },
-  "homepage": "https://github.com/Desktop/mynewcli",
+  "homepage": "https://github.com/suImagine/su-cli",
   "license": "MIT",
   "main": "dist/index.js",
-  "repository": "Desktop/mynewcli",
+  "repository": "https://github.com/suImagine/su-cli",
   "files": [
     "/bin",
     "/dist",
@@ -64,7 +64,7 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "bugs": "https://github.com/Desktop/mynewcli/issues",
+  "bugs": "https://github.com/suImagine/su-cli/issues",
   "keywords": [
     "oclif"
   ],
