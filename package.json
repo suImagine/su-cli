@@ -68,5 +68,8 @@
   "keywords": [
     "su cli"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "su_imagine:registry": "https://npm.pkg.github.com"
+  }
 }
