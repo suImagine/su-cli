@@ -1,8 +1,8 @@
 {
   "name": "@su/cli",
   "version": "0.0.1",
-  "description": "su cli example",
-  "author": "suImagine",
+  "description": "oclif example Hello World CLI",
+  "author": "苏相相",
   "bin": {
     "mynewcli": "./bin/run"
   },
@@ -66,7 +66,7 @@
   },
   "bugs": "https://github.com/suImagine/su-cli/issues",
   "keywords": [
-    "su cli"
+    "oclif"
   ],
   "types": "dist/index.d.ts"
 }
